@@ -1,0 +1,293 @@
+//Licences obtenues grâce à npm-license-crawler
+//Pour mettre à jour, faire dans la console npm-license-crawler -onlyDirectDependencies -json licence.json
+
+{
+  "@react-native-community/datetimepicker@2.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/react-native-community/datetimepicker",
+    "licenseUrl": "https://github.com/react-native-community/datetimepicker/raw/master/LICENSE.md",
+    "parents": "myEMapp"
+  },
+  "core-js@3.6.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/zloirock/core-js",
+    "licenseUrl": "https://github.com/zloirock/core-js/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "email-validator@2.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/manishsaraan/email-validator",
+    "licenseUrl": "http://github.com/manishsaraan/email-validator/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "expo-blur@8.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expo/expo",
+    "licenseUrl": "https://github.com/expo/expo",
+    "parents": "myEMapp"
+  },
+  "expo-file-system@8.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expo/expo",
+    "licenseUrl": "https://github.com/expo/expo",
+    "parents": "myEMapp"
+  },
+  "expo-font@8.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expo/expo",
+    "licenseUrl": "https://github.com/expo/expo",
+    "parents": "myEMapp"
+  },
+  "expo-image-picker@8.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expo/expo",
+    "licenseUrl": "https://github.com/expo/expo",
+    "parents": "myEMapp"
+  },
+  "expo@36.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expo/expo",
+    "licenseUrl": "https://github.com/expo/expo",
+    "parents": "myEMapp"
+  },
+  "firebase-admin@8.9.2": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/firebase/firebase-admin-node",
+    "licenseUrl": "https://github.com/firebase/firebase-admin-node/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "firebase@6.6.2": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/firebase/firebase-js-sdk",
+    "licenseUrl": "https://github.com/firebase/firebase-js-sdk",
+    "parents": "myEMapp"
+  },
+  "moment@2.24.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/moment/moment",
+    "licenseUrl": "https://github.com/moment/moment/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "npm-check-updates@4.0.1": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/tjunnone/npm-check-updates",
+    "licenseUrl": "https://github.com/tjunnone/npm-check-updates/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "npm-license-crawler@0.2.1": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/mwittig/npm-license-crawler",
+    "licenseUrl": "https://github.com/mwittig/npm-license-crawler/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "react-dom@16.9.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "react-native-calendars@1.259.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/wix/react-native-calendars",
+    "licenseUrl": "https://github.com/wix/react-native-calendars/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "react-native-collapsible@1.5.1": {
+    "licenses": "MIT",
+    "repository": "git+https://oblador@github.com/oblador/react-native-collapsible",
+    "licenseUrl": "git+https://oblador@github.com/oblador/react-native-collapsible/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "react-native-countdown-component@2.6.0": {
+    "licenses": "UNKNOWN",
+    "repository": "https://github.com/talalmajali/react-native-countdown-component",
+    "licenseUrl": "https://github.com/talalmajali/react-native-countdown-component/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "react-native-dialog@5.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mmazzarolo/react-native-dialog",
+    "licenseUrl": "https://github.com/mmazzarolo/react-native-dialog/raw/master/LICENSE.md",
+    "parents": "myEMapp"
+  },
+  "react-native-elements@1.2.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/react-native-elements/react-native-elements",
+    "licenseUrl": "https://github.com/react-native-elements/react-native-elements/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "react-native-extra-dimensions-android@1.2.5": {
+    "licenses": "ISC",
+    "repository": "https://github.com/Sunhat/react-native-extra-dimensions-android",
+    "licenseUrl": "https://github.com/Sunhat/react-native-extra-dimensions-android/raw/master/LICENSE.md",
+    "parents": "myEMapp"
+  },
+  "react-native-fs@2.16.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/itinance/react-native-fs",
+    "licenseUrl": "https://github.com/itinance/react-native-fs/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "react-native-gesture-handler@1.5.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/software-mansion/react-native-gesture-handler",
+    "licenseUrl": "https://github.com/software-mansion/react-native-gesture-handler/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "react-native-modal-datetime-picker@8.5.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mmazzarolo/react-native-modal-datetime-picker",
+    "licenseUrl": "https://github.com/mmazzarolo/react-native-modal-datetime-picker/raw/master/LICENSE.md",
+    "parents": "myEMapp"
+  },
+  "react-native-modal@11.5.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/react-native-community/react-native-modal",
+    "licenseUrl": "https://github.com/react-native-community/react-native-modal/raw/master/LICENSE.md",
+    "parents": "myEMapp"
+  },
+  "react-native-multi-select@0.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/hasangilak/react-native-multi-select",
+    "licenseUrl": "https://github.com/hasangilak/react-native-multi-select",
+    "parents": "myEMapp"
+  },
+  "react-native-popover-view@2.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/steffeydev/react-native-popover-view",
+    "licenseUrl": "https://github.com/steffeydev/react-native-popover-view",
+    "parents": "myEMapp"
+  },
+  "react-native-reanimated@1.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kmagiera/react-native-reanimated",
+    "licenseUrl": "https://github.com/kmagiera/react-native-reanimated/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "react-native-rss-parser@1.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jameslawler/react-native-rss-parser",
+    "licenseUrl": "https://github.com/jameslawler/react-native-rss-parser/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "react-native-screens@2.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kmagiera/react-native-screens",
+    "licenseUrl": "https://github.com/kmagiera/react-native-screens/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "react-native-sectioned-multi-select@0.7.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/renrizzolo/react-native-sectioned-multi-select",
+    "licenseUrl": "https://github.com/renrizzolo/react-native-sectioned-multi-select/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "react-native-snap-carousel@3.8.4": {
+    "licenses": "BSD-3-Clause",
+    "repository": "github.com/archriss/react-native-snap-carousel",
+    "licenseUrl": "github.com/archriss/react-native-snap-carousel/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "react-native-switch-selector@2.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/App2Sales/react-native-switch-selector",
+    "licenseUrl": "https://github.com/App2Sales/react-native-switch-selector/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "react-native-vector-icons@6.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/oblador/react-native-vector-icons",
+    "licenseUrl": "https://github.com/oblador/react-native-vector-icons/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "react-native-web@0.11.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/necolas/react-native-web",
+    "licenseUrl": "https://github.com/necolas/react-native-web",
+    "parents": "myEMapp"
+  },
+  "react-native-webview@7.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/react-native-community/react-native-webview",
+    "licenseUrl": "https://github.com/react-native-community/react-native-webview/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "react-native@0.61.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react-native",
+    "licenseUrl": "https://github.com/facebook/react-native/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "react-navigation-drawer@2.3.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/react-navigation/drawer",
+    "licenseUrl": "https://github.com/react-navigation/drawer/raw/master/LICENSE.md",
+    "parents": "myEMapp"
+  },
+  "react-navigation-stack@1.10.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/react-navigation/react-navigation-stack",
+    "licenseUrl": "https://github.com/react-navigation/react-navigation-stack/raw/master/LICENSE.md",
+    "parents": "myEMapp"
+  },
+  "react-navigation-tabs@2.7.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/react-navigation/tabs",
+    "licenseUrl": "https://github.com/react-navigation/tabs/raw/master/LICENSE.md",
+    "parents": "myEMapp"
+  },
+  "react-navigation@4.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/react-navigation/react-navigation",
+    "licenseUrl": "https://github.com/react-navigation/react-navigation/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "react-redux@7.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/reduxjs/react-redux",
+    "licenseUrl": "https://github.com/reduxjs/react-redux/raw/master/LICENSE.md",
+    "parents": "myEMapp"
+  },
+  "react@16.9.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/facebook/react",
+    "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "redux-logger@3.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/theaqua/redux-logger",
+    "licenseUrl": "https://github.com/theaqua/redux-logger/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "redux-persist@6.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rt2zz/redux-persist",
+    "licenseUrl": "https://github.com/rt2zz/redux-persist/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "redux-thunk@2.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/reduxjs/redux-thunk",
+    "licenseUrl": "https://github.com/reduxjs/redux-thunk/raw/master/LICENSE.md",
+    "parents": "myEMapp"
+  },
+  "redux@4.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/reduxjs/redux",
+    "licenseUrl": "https://github.com/reduxjs/redux/raw/master/LICENSE.md",
+    "parents": "myEMapp"
+  },
+  "shorthash@0.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/bibig/node-shorthash",
+    "licenseUrl": "https://github.com/bibig/node-shorthash/raw/master/LICENSE",
+    "parents": "myEMapp"
+  },
+  "url-parse@1.4.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/unshiftio/url-parse",
+    "licenseUrl": "https://github.com/unshiftio/url-parse/raw/master/LICENSE",
+    "parents": "myEMapp"
+  }
+}

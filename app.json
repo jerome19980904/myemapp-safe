@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "MyEMApp",
+    "slug": "MyEMApp",
+    "privacy": "public",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.4.6",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "bundleIdentifier": "com.plugnplay.myemapp2",
+      "infoPlist": {
+        "NSCameraUsageDescription": "myEMapp à besoin d'accéder à votre caméra pour ajouter une photo à votre profil. Cette photo ne sera jamais partagée sans votre autorisation.",
+        "NSPhotoLibraryUsageDescription": "myEMapp à besoin d'accéder à vos photos pour ajouter une photo à votre profil. Cette photo ne sera jamais partagée sans votre autorisation.",
+        "NSPhotoLibraryAddUsageDescription": "myEMapp à besoin d'accéder à vos photos pour ajouter une photo à votre profil. Cette photo ne sera jamais partagée sans votre autorisation."
+      },
+      "buildNumber": "1.4.6"
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "package": "com.plugnplay.myemapp",
+      "versionCode": 29,
+      "permissions": [],
+      "config": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+/*Explication
+
+C'est dans ce fichier que l'on va créer les raccourcis pour faciliter les imports.
+Au lieu de faire ../../../Components/LongButton, il suffit maintenant de faire _Components/LongButton.
+
+En gros, il faut se référer aux alias plus bas. Et il est toujours possible d'en créer en suivant le même modèle.
+
+ */
+
+{
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "cwd": "babelrc",
+        "root": ["./src"],
+        "extensions": [".js", ".ios.js", ".android.js"],
+        "alias": {
+          "_root": "./src",
+          "_assets": "./src/assets",
+          "_Legal": "./src/Legal",
+          "_Components": "./src/Components",
+          "_Modules": "./src/Modules",
+          "_Navigation": "./src/Navigation",
+          "_Store": "./src/Store",
+          "_styles": "./src/styles",
+          "_Utilitaires": "./src/Utilitaires"
+        }
+      }
+    ]
+  ]
+}
